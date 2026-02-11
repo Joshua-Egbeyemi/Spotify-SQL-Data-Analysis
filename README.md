@@ -139,5 +139,4 @@ The analysis reveals that **platform behavior is highly segmented**. By bridging
 ---
 **Author:** Joshua Egbeyemi  
 [LinkedIn Profile](https://www.linkedin.com/in/https://www.linkedin.com/in/joshua-egbeyemi-0108ja08/) | [GitHub Portfolio](https://github.com/Joshua-Egbeyemi)
-**Author:** Joshua Egbeyemi  
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) | [GitHub Portfolio](https://github.com/Joshua-Egbeyemi)
+
